@@ -1,2 +1,2 @@
 # PPDB_SMK_BPM
-PPDB Sekolah
+Aplikasi Penerimaan Peserta Didik Baru
